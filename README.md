@@ -1,2 +1,1 @@
-# tick-tac-toe
-Blue and Green
+# tic-tac-toe
